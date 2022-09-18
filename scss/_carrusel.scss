@@ -1,0 +1,14 @@
+.slide{
+    margin-top: 10px;
+}
+.slide img{
+    height: 90vh;
+    
+}
+.carousel-inner{
+    width: 90%;
+    margin: 0 auto;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon, .carousel-indicators{
+    filter: invert(80%);
+  }

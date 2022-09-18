@@ -1,0 +1,6 @@
+Agregue <meta name=description> y  <meta name=description> en los head de todas mis paginas.
+
+Agregue title en las imagenes de los terapeutas y en las terapias de la pagina terapia.
+
+Modifique los title de las paginas segun corresponda, por ejemplo en la pagina terapias el title es terapia,
+en la pagina inicio es Kume Mongen y en la pagina de testimonio aplique testimonio 

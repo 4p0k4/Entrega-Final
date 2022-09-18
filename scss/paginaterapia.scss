@@ -1,0 +1,7 @@
+.card:hover{
+    background-color:#6cc091;
+    color: #ffffff;
+}
+h1{
+    @extend .titulo
+}

@@ -1,0 +1,28 @@
+.seccionb{
+    padding: 0px 50px;
+    background: rgba(77,77,92, 0.6);
+}
+.contenido-seccionb{
+    padding: 50px 50px 0px 50px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+    img{
+        border-radius: 20%;
+    }
+}
+.contenido-seccionb h5{
+    color:#ffffff;
+    font-size: 20px;
+    font-weight: 100;
+    margin: 10px 0px;
+}
+.contenido-seccionb p{
+    color: rgba(255,255,255, 0.55);
+    font-size: 15px;
+}
+.contenido-seccionb div{
+    flex: 1;
+    margin: 20px 0px;
+}            

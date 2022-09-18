@@ -1,0 +1,35 @@
+h1{
+    @extend .titulo
+}
+.testimonios{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+@mixin cuadrado ($fondo, $margen){
+    background-color: $fondo;
+    margin-bottom: $margen;
+    text-align: center;
+    border-radius: 5px;
+    color:#fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+       
+}
+.cuadrado-1{
+    @include cuadrado(#4bae77,10px);
+}
+.cuadrado-2{
+    @include cuadrado(#ffae00,10px);
+}
+.cuadrado-3{
+    @include cuadrado(#6cc091,10px);
+}
+.cuadrado-4{
+    @include cuadrado(#36792d,10px);
+}
+.cuadrado-5{
+    @include cuadrado(#b86de4,10px);
+}
+ 
